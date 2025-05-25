@@ -1,7 +1,7 @@
 
 # MSM Download Tool — Qualcomm Emergency Flasher
 
-[![Download MSM Download Tool](https://img.shields.io/badge/Download-MSM_Download_Tool-8A2BE2?style=flat-square\&logo=github\&logoColor=white)](https://firmwarefile.com/msm-download-tool)
+[![Download MSM Download Tool](https://img.shields.io/badge/Download-MSM_Download_Tool-8A2BE2?style=flat-square\&logo=github\&logoColor=white)]()
 
 > 💡 **Tip:** Tool works best with EDL mode and official firmware packages. Always back up IMEI/NV data if accessible.
 
@@ -28,11 +28,11 @@ After downloading, simply open the `.exe` file to launch the tool. No installati
 
 ### 🖼 Preview
 
-![Preview 1](LINK_TO_IMAGE_1)
-*Main interface of MSM Download Tool showing device detection.*
+![Preview 1](https://images.tenorshare.com/article/unlock-android/oneplus-msm-download-tool.jpg?w=720&h=450)
 
-![Preview 2](LINK_TO_IMAGE_2)
-*Flashing progress screen with success confirmation.*
+
+![Preview 2](https://xiaomitime.com/wp-content/uploads/2023/05/Target.png)
+
 
 ---
 
